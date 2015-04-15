@@ -1,6 +1,6 @@
 {
   "name": "inject-filename-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create header and footer banner with __filename injected as a variable",
   "main": "index.js",
   "scripts": {
