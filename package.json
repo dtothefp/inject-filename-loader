@@ -1,17 +1,18 @@
 {
   "name": "inject-filename-loader",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Create header and footer banner with __filename injected as a variable",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/dtothefp/inject-filename-loader/issues"
+  },
+  "homepage": "https://github.com/dtothefp/inject-filename-loader",
   "dependencies": {
     "loader-utils": "^0.2.5"
   },
-  "peerDependencies": {
-    "webpack": "^1.4.5"
-  },
-  "author": "",
+  "author": "David Fox-Powell",
   "license": "ISC"
 }
